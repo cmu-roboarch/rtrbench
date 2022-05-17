@@ -1,0 +1,5 @@
+**/*.out
+**/obj/
+**/*.gold
+verify_all.sh
+build.log
