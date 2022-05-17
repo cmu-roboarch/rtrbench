@@ -6,7 +6,7 @@ title: RTRBench
 
 Real-Time Robotics Benchmark (RTRBench) is a collection of real-time robotic
 kernels. The kernels span the entire software pipeline of most autonomous
-robots, as listed [here](./benchmarks.md). RTRBench is published in ISPASS 2022
+robots ([Listing of Benchmarks](./benchmarks.md)). RTRBench is published in ISPASS 2022
 [[Paper](https://cmu.box.com/s/pv22s6c4jn9oje951bbb6g3skvbg3ls8)]
 [[Slides](https://cmu.box.com/s/jz98v4jvihqys53chzdhrlvt6lu8m8oy)]
 [[Talk](https://cmu.box.com/s/0ixsyfb611g9m3uqsku7mohi73k4xup6)].
