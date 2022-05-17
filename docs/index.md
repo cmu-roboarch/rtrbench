@@ -1,5 +1,5 @@
 ---
-title: RTRBench: A Benchmark Suite for Real-Time Robotics
+title: RTRBench
 ---
 
 #  RTRBench
