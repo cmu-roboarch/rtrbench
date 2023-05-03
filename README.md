@@ -17,7 +17,7 @@ simulator.
 
 ## Requirements
 RTRBench uses C++17. The following minimum versions are required to build the
-benchmark:
+benchmarks:
 - GCC 8.0
 - Clang 5.0
 - Visual Studio 15.8
@@ -38,7 +38,7 @@ This way, the pieces of the code that are written for the purpose of
 verification will be omitted.
 
 ### Build for Debug
-To debug the kernels for debugging them, use the following command:
+To build the kernels for debugging them, use the following command:
 ```
 $ make debug
 ```

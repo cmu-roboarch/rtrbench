@@ -29,17 +29,17 @@ Scene reconstruction using the Iterative Closest Point (ICP) algorithm.
 ### Planning
 
 - **04.pp2d**  
-Mobile robot path planning using the A* algorithm in 2D environments.  
+Mobile robot path planning using the A\* algorithm in 2D environments.  
 [[Code](https://github.com/cmu-roboarch/rtrbench/tree/main/planning/04.pp2d)] 
 [[Doc](https://github.com/cmu-roboarch/rtrbench/blob/main/planning/04.pp2d/README.md)]
 
 - **05.pp3d**  
-Mobile robot path planning using the A* algorithm in 3D environments.  
+Mobile robot path planning using the A\* algorithm in 3D environments.  
 [[Code](https://github.com/cmu-roboarch/rtrbench/tree/main/planning/05.pp3d)] 
 [[Doc](https://github.com/cmu-roboarch/rtrbench/blob/main/planning/05.pp3d/README.md)]
 
 - **06.movtar**  
-Mobile robot path planning using the A* algorithm with a moving target.  
+Mobile robot path planning using the A\* algorithm with a moving target.  
 [[Code](https://github.com/cmu-roboarch/rtrbench/tree/main/planning/06.movtar)] 
 [[Doc](https://github.com/cmu-roboarch/rtrbench/blob/main/planning/06.movtar/README.md)]
 

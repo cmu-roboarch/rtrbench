@@ -4,7 +4,7 @@ This directory provides an implementation of 2D Path Planning.
 
 ## Description
 
-The program uses A* graph search to find an efficient (short), collision-free
+The program uses A\* graph search to find an efficient (short), collision-free
 path from a start point to a goal point in the 2D environment shown in the
 figure below (right).  The program resembles a self-driving car operating in a
 city.

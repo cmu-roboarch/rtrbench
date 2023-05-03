@@ -32,7 +32,7 @@ To solve the optimization problem, we use
 [CVXGEN](https://cvxgen.com/docs/index.html).  CVXGEN performs most
 transformations and optimizations *offline* and generates a super-fast C code
 tailored for the optimization problem. As most of the process is done offline,
-the code must be re-generated if it problem's dimensions change. To generate
+the code must be re-generated if the problem's dimensions change. To generate
 the code for a new problem, please follow the steps explained
 [here](https://cvxgen.com/licenses/new) and get a free academic license. Then
 describe the new problem using CVXGEN's language (our definition can be found

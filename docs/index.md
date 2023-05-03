@@ -67,7 +67,7 @@ verification will be omitted.
 $ make performance
 ```
 
-To debug the kernels for debugging them, use the following command:
+To build the kernels for debugging them, use the following command:
 ```
 $ make debug
 ```

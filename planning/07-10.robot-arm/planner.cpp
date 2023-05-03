@@ -96,9 +96,9 @@ void Planner::getBresenhamParameters(int p1x, int p1y, int p2x, int p2y, \
     params->deltaX = params->x2 - params->x1;
     params->deltaY = params->y2 - params->y1;
 
-    params->incrE =2 * params->deltaY * params->increment;
-    params->incrNE =2* (params->deltaY - params->deltaX) * params->increment;
-    params->dTerm =(2 * params->deltaY - params->deltaX) * params->increment;
+    params->incrE = 2 * params->deltaY * params->increment;
+    params->incrNE = 2* (params->deltaY - params->deltaX) * params->increment;
+    params->dTerm = (2 * params->deltaY - params->deltaX) * params->increment;
 
     params->xIndex = params->x1;
     params->yIndex = params->y1;

@@ -60,7 +60,7 @@ void ParticleFilter::initializeParticles(EnvMap *occGrid, int numParticles) {
     int numFreeLocs = static_cast<int>(freeXs->size());
 
     std::default_random_engine intGen;
-    std::uniform_int_distribution<int> intDist(0, numFreeLocs);
+    std::uniform_int_distribution<int> intDist(0, numFreeLocs - 1);
 
     std::default_random_engine realGen;
     std::uniform_real_distribution<double> realDist(-PI, PI);

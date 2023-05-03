@@ -5,8 +5,8 @@ target.
 
 ## Description
 
-The program uses the A* algorithm to search a conceptual 3D state space in
-which the third dimension is *time*. The heuristic values that the A* algorithm
+The program uses the A\* algorithm to search a conceptual 3D state space in
+which the third dimension is *time*. The heuristic values that the A\* algorithm
 uses are calculated by a backward Dijkstra run. Every location in the
 environment has a particular cost for the robot. The goal of the robot is to
 catch the target with minimum cost.  The figure below shows the planning

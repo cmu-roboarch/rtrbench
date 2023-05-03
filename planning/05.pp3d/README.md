@@ -4,8 +4,8 @@ This directory provides an implementation of 3D Path Planning.
 
 ## Description
 
-The program uses A* graph search to find an efficient (short), collision-free
-path from a start point to a goal point in the 2D environment shown in the
+The program uses A\* graph search to find an efficient (short), collision-free
+path from a start point to a goal point in the 3D environment shown in the
 figure below.  The program resembles a pilotless drone navigating in an outdoor
 environment.
 

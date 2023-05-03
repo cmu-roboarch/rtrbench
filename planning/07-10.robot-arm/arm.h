@@ -102,15 +102,6 @@ class Arm {
             file.close();
         }
 
-        ~Arm() {
-            assert(this->startCfgs.size() == this->goalCfgs.size());
-
-            for (int i = 0; i < static_cast<int>(this->startCfgs.size()); i++) {
-                delete[] this->startCfgs[i];
-                delete[] this->goalCfgs[i];
-            }
-        }
-
         int getDof() const { return dof; }
         int getLinkLength() const { return linkLength; }
         std::vector<double*> getStartCfgs() const { return startCfgs; }
